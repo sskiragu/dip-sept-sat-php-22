@@ -15,7 +15,7 @@
                 <li><a href="">Blog</a></li>
                 <li><a href="">Contacts</a></li>
                 <li><a href="">Login</a></li>
-                <li><a href="">Signup</a></li>
+                <li><a href="signup.php">Signup</a></li>
             </ul>
         </div>
     </nav>
