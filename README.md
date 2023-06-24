@@ -12,7 +12,7 @@
 # PHP Forms - done
 # PHP Forms security
 # PHP Validation
-# PHP Error Handling
+# PHP Error Handling - try...catch
 # PHP & MySQL
 # Mini-Project using procedural programming
 # OOP ...
